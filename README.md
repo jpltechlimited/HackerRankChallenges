@@ -1,4 +1,2 @@
 ## Code submissions to HackerRank
-```
-profile : https://www.hackerrank.com/joselozano
-```
+[Profile Achievements](https://www.hackerrank.com/joselozano) 
